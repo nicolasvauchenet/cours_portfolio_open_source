@@ -17,6 +17,8 @@
 
 - Un court texte de présentation personnelle (bio 5–10 lignes).
 
+---
+
 ## Séquence 2 – Définir son portfolio
 
 ### Objectifs
@@ -33,6 +35,8 @@
 ### Livrables
 
 - Cahier des charges personnel du portfolio (1 page).
+
+---
 
 ## Séquence 3 – Construire et structurer son portfolio
 
@@ -51,6 +55,8 @@
 
 - Première version en ligne d’un portfolio minimal (au moins un projet mis en avant).
 
+---
+
 ## Séquence 4 – Comprendre l’open source
 
 ### Objectifs
@@ -67,6 +73,8 @@
 ### Livrables
 
 - Fiche comparative de 3 licences open source.
+
+---
 
 ## Séquence 5 – Premiers pas dans une communauté open source
 
@@ -85,6 +93,8 @@
 
 - Sélection d’un projet open source à suivre + description des règles de contribution (CONTRIBUTING.md).
 
+---
+
 ## Séquence 6 – Contribuer en pratique
 
 ### Objectifs
@@ -102,6 +112,8 @@
 
 - Une première contribution (PR ou issue) dans un projet open source.
 
+---
+
 ## Séquence 7 – Lien entre portfolio et contributions
 
 ### Objectifs
@@ -117,6 +129,8 @@
 ### Livrables
 
 - Mise à jour du portfolio intégrant la contribution réalisée.
+
+---
 
 ## Séquence 8 – Conclusion et perspectives
 
