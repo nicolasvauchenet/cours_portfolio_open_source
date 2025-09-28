@@ -1,150 +1,112 @@
 # Portfolio et contribution Open Source
 
-## Séquence 1 – Introduction au cours
+## Présentation du cours
 
-### Objectifs
+Ce cours vise à vous accompagner dans la construction d’un **portfolio professionnel** et dans vos **premiers pas dans
+l’open source**.  
+Deux leviers complémentaires pour votre parcours :
 
-- Comprendre les enjeux du portfolio et de l’open source dans un parcours professionnel.
-- Situer le rôle du cours dans le cursus global.
-
-### Contenu
-
-- Présentation du cours et des attentes.
-- Importance de l’image professionnelle en ligne.
-- L’open source : culture, philosophie et opportunités.
-
-### Livrables
-
-- Un court texte de présentation personnelle (bio 5–10 lignes).
+1. **Le portfolio** : mettre en valeur vos compétences par des preuves visibles (projets, démos, articles,
+   contributions).
+2. **L’open source** : apprendre la collaboration et la qualité en participant à des projets réels, tout en renforçant
+   votre employabilité.
 
 ---
 
-## Séquence 2 – Définir son portfolio
+## Objectifs pédagogiques
 
-### Objectifs
+À la fin du cours, vous serez capable de :
 
-- Identifier les éléments constitutifs d’un portfolio.
-- Découvrir les formats possibles (site, CV enrichi, GitHub, générateur).
-
-### Contenu
-
-- Exemples de portfolios efficaces.
-- Analyse critique (forces/faiblesses).
-- Choisir le format adapté à son profil.
-
-### Livrables
-
-- Cahier des charges personnel du portfolio (1 page).
+- Concevoir et publier un portfolio en ligne.
+- Identifier et choisir un projet open source accueillant pour débuter.
+- Réaliser une première contribution (code, documentation, issue).
+- Valoriser cette contribution dans votre portfolio.
+- Définir une stratégie personnelle pour continuer à contribuer.
 
 ---
 
-## Séquence 3 – Construire et structurer son portfolio
+## Organisation du cours
 
-### Objectifs
+Le cours se déroule en **8 séquences** progressives, chacune avec des objectifs, un contenu et un livrable :
 
-- Savoir organiser l’information de manière claire et attractive.
-- Développer une première version fonctionnelle.
+1. **Introduction au cours**  
+   Comprendre les enjeux du portfolio et de l’open source.  
+   *Livrable* : bio (5–10 lignes).
 
-### Contenu
+2. **Définir son portfolio**  
+   Identifier les formats et choisir le plus adapté.  
+   *Livrable* : cahier des charges du portfolio (1 page).
 
-- Storytelling et hiérarchisation.
-- Accessibilité, design responsive.
-- Introduction aux outils : GitHub Pages, générateurs, CMS statiques.
+3. **Construire et structurer son portfolio**  
+   Mettre en ligne une première version.  
+   *Livrable* : portfolio minimal (bio + 1 projet).
 
-### Livrables
+4. **Comprendre l’open source**  
+   Découvrir son histoire, ses licences et ses projets phares.  
+   *Livrable* : fiche comparative de 3 licences.
 
-- Première version en ligne d’un portfolio minimal (au moins un projet mis en avant).
+5. **Premiers pas dans une communauté open source**  
+   Explorer issues et règles de contribution.  
+   *Livrable* : choix d’un projet OSS + résumé du `CONTRIBUTING.md`.
 
----
+6. **Contribuer en pratique**  
+   Réaliser un fork, une branche, un commit et une PR.  
+   *Livrable* : lien vers une première contribution.
 
-## Séquence 4 – Comprendre l’open source
+7. **Lien entre portfolio et contributions**  
+   Intégrer ses contributions dans le portfolio.  
+   *Livrable* : mise à jour du portfolio avec au moins une PR/issue.
 
-### Objectifs
-
-- Connaître les fondements du logiciel libre et open source.
-- Comprendre les différents types de licences et leurs implications.
-
-### Contenu
-
-- Historique et grands mouvements.
-- Licences (MIT, GPL, Apache).
-- Exemples de projets phares.
-
-### Livrables
-
-- Fiche comparative de 3 licences open source.
-
----
-
-## Séquence 5 – Premiers pas dans une communauté open source
-
-### Objectifs
-
-- Identifier des projets ouverts aux contributions.
-- Découvrir les outils de collaboration (Git, GitHub/GitLab).
-
-### Contenu
-
-- “Good first issue” et autres portes d’entrée.
-- Interaction avec une communauté (issues, discussions, RFC).
-- Bonnes pratiques de communication.
-
-### Livrables
-
-- Sélection d’un projet open source à suivre + description des règles de contribution (CONTRIBUTING.md).
+8. **Conclusion et perspectives**  
+   Synthèse, présentation des portfolios et plan personnel de contribution.  
+   *Livrable* : portfolio final + journal de contribution.
 
 ---
 
-## Séquence 6 – Contribuer en pratique
+## Méthodes pédagogiques
 
-### Objectifs
-
-- Savoir cloner, forker, créer une branche et ouvrir une pull request.
-- Produire une contribution simple (code ou documentation).
-
-### Contenu
-
-- Workflow Git : fork → branch → commit → PR.
-- Rédaction d’un bon message de commit.
-- Revue de code et feedback.
-
-### Livrables
-
-- Une première contribution (PR ou issue) dans un projet open source.
+- **Cours théoriques** : apports sur le portfolio, l’histoire de l’open source, les licences.
+- **Études de cas** : analyse de portfolios et projets OSS existants.
+- **Ateliers pratiques** : création de pages GitHub, ouverture de PR, rédaction de commits.
+- **Échanges collectifs** : présentations des travaux, discussions sur les difficultés rencontrées.
 
 ---
 
-## Séquence 7 – Lien entre portfolio et contributions
+## Évaluation
 
-### Objectifs
+L’évaluation repose sur :
 
-- Valoriser ses contributions dans son portfolio.
-- Montrer concrètement ses preuves de compétence.
+- Les **livrables intermédiaires** (bio, cahier des charges, fiche licences, choix de projet OSS, PR).
+- Le **portfolio final**, intégrant une ou plusieurs contributions open source.
+- Le **journal de contribution**, retraçant la démarche personnelle.
 
-### Contenu
-
-- Intégrer commits/PRs dans le portfolio (badges, captures, extraits).
-- Mettre en avant la collaboration et la résolution de problèmes.
-
-### Livrables
-
-- Mise à jour du portfolio intégrant la contribution réalisée.
+> Le travail final sera évalué sur la clarté, la cohérence, la qualité technique et la capacité à mettre en valeur vos
+> acquis.
 
 ---
 
-## Séquence 8 – Conclusion et perspectives
+## Ressources principales
 
-### Objectifs
+- [Open Source Guides – GitHub](https://opensource.guide/)
+- [Choose a License](https://choosealicense.com/)
+- [First Contributions](https://firstcontributions.github.io/)
+- [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey)
+- [GitHub Octoverse](https://octoverse.github.com/)
 
-- Synthétiser le travail réalisé.
-- Définir une stratégie personnelle de poursuite.
+---
 
-### Contenu
+## Pré-requis
 
-- Présentation des portfolios et contributions des étudiants.
-- Discussion sur les opportunités pro liées à l’open source.
-- Pistes pour continuer à contribuer.
+- Connaissances de base en Git et GitHub/GitLab.
+- Capacité à créer et publier du contenu web simple (HTML/CSS/Markdown).
 
-### Livrables
+---
 
-- Portfolio final complet (hébergé en ligne) + journal de contribution open source.
+## Livrable final attendu
+
+Un **portfolio en ligne complet**, intégrant :
+
+- Votre bio et vos projets.
+- Une ou plusieurs contributions open source (PRs, issues, doc).
+- Un **journal de contribution** relatant votre expérience.
+- Une **stratégie personnelle de poursuite** des contributions.
